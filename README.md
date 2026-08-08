@@ -5,7 +5,7 @@
 
 ## Description 
 
-Ce mini-projet a pour but de partager mon expérience dans l'apprentissage du langage COBOL. J'ai choisi ce projet pour me familiariser avec les concepts de base du COBOL et pour développer mes compétences en programmation.
+Ces mini-projets ont pour objectifs de partager mon expérience dans l'apprentissage du langage COBOL. J'ai choisi ce projet pour me familiariser avec les concepts de base du COBOL et pour développer mes compétences en programmation.
 
 ## Avertissement
 
